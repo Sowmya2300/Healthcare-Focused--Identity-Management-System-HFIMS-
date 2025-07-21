@@ -1,0 +1,250 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2025-04-15T11:05:59.808Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "Nurse12",
+        "role": "nurse"
+      }
+    },
+    "prevHash": "0",
+    "hash": "ddce059ef619c6d5a1d8d5d300737dfb78b058cc37e607d009ece5c3bab0731e"
+  },
+  {
+    "index": 1,
+    "timestamp": "2025-04-16T22:39:28.737Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "patient13",
+        "role": "patient"
+      }
+    },
+    "prevHash": "ddce059ef619c6d5a1d8d5d300737dfb78b058cc37e607d009ece5c3bab0731e",
+    "hash": "76ff5b1349b59c8f7c1c02afa75832cb2a84cce94ea7d1d70ab6fd0dd71cd499"
+  },
+  {
+    "index": 2,
+    "timestamp": "2025-04-16T22:40:14.692Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "BillingStaff12",
+        "role": "staff"
+      }
+    },
+    "prevHash": "76ff5b1349b59c8f7c1c02afa75832cb2a84cce94ea7d1d70ab6fd0dd71cd499",
+    "hash": "22b377e3e2a6a65800d15a020cd543821c641c16b6c09d5b262a4fac023fc8da"
+  },
+  {
+    "index": 3,
+    "timestamp": "2025-04-16T22:46:49.648Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "guardian14",
+        "role": "guardian"
+      }
+    },
+    "prevHash": "22b377e3e2a6a65800d15a020cd543821c641c16b6c09d5b262a4fac023fc8da",
+    "hash": "899b05e5b328794d0eec9f363f3b4ec8d188ca5cd95dfb486e5de492d501a314"
+  },
+  {
+    "index": 4,
+    "timestamp": "2025-05-01T17:01:56.602Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_MEDICAL_RECORD",
+      "details": {
+        "patient": "67fcc5cee71c49acabd98ed6",
+        "doctor": "67fcc5cee71c49acabd98ec1",
+        "diagnosis": "Fever"
+      }
+    },
+    "prevHash": "899b05e5b328794d0eec9f363f3b4ec8d188ca5cd95dfb486e5de492d501a314",
+    "hash": "62a053909122bc6f7976dc3f42f09a6fd33c596c7633f09fb225c2dfa613ae96"
+  },
+  {
+    "index": 5,
+    "timestamp": "2025-05-01T17:08:45.390Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ed1",
+      "action": "CREATE_MEDICAL_RECORD",
+      "details": {
+        "patient": "67fcc5cee71c49acabd98ed9",
+        "doctor": "67fcc5cee71c49acabd98ec3",
+        "diagnosis": "General check"
+      }
+    },
+    "prevHash": "62a053909122bc6f7976dc3f42f09a6fd33c596c7633f09fb225c2dfa613ae96",
+    "hash": "caed4878949c1127cbb0e259a5fd0378036049aaddf487da5bd30c7a6b2ee550"
+  },
+  {
+    "index": 6,
+    "timestamp": "2025-05-01T18:16:12.916Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "DELETE_USER",
+      "details": {
+        "deletedUserId": "680031cef025f5f72a96cead"
+      }
+    },
+    "prevHash": "caed4878949c1127cbb0e259a5fd0378036049aaddf487da5bd30c7a6b2ee550",
+    "hash": "e6fa1ffdfd6692cc18cf445e044586e4c1fbac74f807516d3611f6a37cfae91d"
+  },
+  {
+    "index": 7,
+    "timestamp": "2025-05-01T18:16:17.457Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "DELETE_USER",
+      "details": {
+        "deletedUserId": "68003359f025f5f72a96cec2"
+      }
+    },
+    "prevHash": "e6fa1ffdfd6692cc18cf445e044586e4c1fbac74f807516d3611f6a37cfae91d",
+    "hash": "5098a017acca6bcfb409cda750f73543fe123850d06b56c86b04737e4660ce87"
+  },
+  {
+    "index": 8,
+    "timestamp": "2025-05-01T18:16:24.344Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "UPDATE_USER",
+      "details": {
+        "updatedUserId": "67fd5885409e26160971f457",
+        "updates": {
+          "_id": "67fd5885409e26160971f457",
+          "username": "BillingStaff11",
+          "email": "billing11@example.com",
+          "role": "staff",
+          "staffType": "medical",
+          "guardianFor": [],
+          "assignedPatients": [],
+          "isDeleted": false,
+          "createdAt": "2025-04-14T18:48:37.742Z",
+          "updatedAt": "2025-04-14T18:48:37.742Z",
+          "__v": 0,
+          "password": ""
+        }
+      }
+    },
+    "prevHash": "5098a017acca6bcfb409cda750f73543fe123850d06b56c86b04737e4660ce87",
+    "hash": "2d8fb435cf08b08b8808d6446bb09d6b32fda7b712eb24a9fb8655b9d151e5d6"
+  },
+  {
+    "index": 9,
+    "timestamp": "2025-05-01T18:16:32.321Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "UPDATE_USER",
+      "details": {
+        "updatedUserId": "67fd5885409e26160971f457",
+        "updates": {
+          "_id": "67fd5885409e26160971f457",
+          "username": "BillingStaff11",
+          "email": "sdf1@example.com",
+          "role": "staff",
+          "staffType": "medical",
+          "guardianFor": [],
+          "assignedPatients": [],
+          "isDeleted": false,
+          "createdAt": "2025-04-14T18:48:37.742Z",
+          "updatedAt": "2025-05-01T18:16:24.336Z",
+          "__v": 0,
+          "password": ""
+        }
+      }
+    },
+    "prevHash": "2d8fb435cf08b08b8808d6446bb09d6b32fda7b712eb24a9fb8655b9d151e5d6",
+    "hash": "000a9004fe2b45b2c9ba1eb3888865a7dd92ed0a1e54517ae80ff425b2713ba7"
+  },
+  {
+    "index": 10,
+    "timestamp": "2025-05-01T18:16:59.322Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "UPDATE_USER",
+      "details": {
+        "updatedUserId": "67fd5885409e26160971f457",
+        "updates": {
+          "_id": "67fd5885409e26160971f457",
+          "username": "MedicalStaff14",
+          "email": "medical14@example.com",
+          "role": "staff",
+          "staffType": "medical",
+          "guardianFor": [],
+          "assignedPatients": [],
+          "isDeleted": false,
+          "createdAt": "2025-04-14T18:48:37.742Z",
+          "updatedAt": "2025-05-01T18:16:32.315Z",
+          "__v": 0,
+          "password": ""
+        }
+      }
+    },
+    "prevHash": "000a9004fe2b45b2c9ba1eb3888865a7dd92ed0a1e54517ae80ff425b2713ba7",
+    "hash": "25a2223b3d3154dddfb8b21fc7b59616351ea4435649073b873e3dd004e42f61"
+  },
+  {
+    "index": 11,
+    "timestamp": "2025-05-01T18:17:59.791Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "BillingStaff15",
+        "role": "staff"
+      }
+    },
+    "prevHash": "25a2223b3d3154dddfb8b21fc7b59616351ea4435649073b873e3dd004e42f61",
+    "hash": "8404bde6fdc9d954e22b138f5a0c414fb233a2cfbe783ed0af32b714a5931d9b"
+  },
+  {
+    "index": 12,
+    "timestamp": "2025-05-01T18:39:12.947Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "UPDATE_USER",
+      "details": {
+        "updatedUserId": "6813bad731268b17b2899da6",
+        "updates": {
+          "_id": "6813bad731268b17b2899da6",
+          "username": "BillingStaff16",
+          "email": "billing16@example.com",
+          "role": "staff",
+          "staffType": "billing",
+          "guardianFor": [],
+          "assignedPatients": [],
+          "isDeleted": false,
+          "createdAt": "2025-05-01T18:17:59.785Z",
+          "updatedAt": "2025-05-01T18:17:59.785Z",
+          "__v": 0,
+          "password": ""
+        }
+      }
+    },
+    "prevHash": "8404bde6fdc9d954e22b138f5a0c414fb233a2cfbe783ed0af32b714a5931d9b",
+    "hash": "9f2e74e50c8f07816d6dcf62416a4a3a3c11024833cd0c751eacb597b1c781b9"
+  },
+  {
+    "index": 13,
+    "timestamp": "2025-05-05T17:47:00.141Z",
+    "data": {
+      "userId": "67fcc5cee71c49acabd98ebd",
+      "action": "CREATE_USER",
+      "details": {
+        "username": "BillingStaff13",
+        "role": "staff"
+      }
+    },
+    "prevHash": "9f2e74e50c8f07816d6dcf62416a4a3a3c11024833cd0c751eacb597b1c781b9",
+    "hash": "caa5ebf6c2c027ec5832d3c574069aa11159772d5c44e34130e6b7e83a123d58"
+  }
+]

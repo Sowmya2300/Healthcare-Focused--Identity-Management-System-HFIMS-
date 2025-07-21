@@ -1,0 +1,1157 @@
+[
+  {
+    "email": "patient6@example.com",
+    "timestamp": "2025-04-15T15:47:09.366Z",
+    "success": true,
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed7"
+  },
+  {
+    "email": "admin@example.com",
+    "timestamp": "2025-04-15T15:52:01.965Z",
+    "success": true,
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "patient8@example.com",
+    "timestamp": "2025-04-15T15:52:24.913Z",
+    "success": true,
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed9"
+  },
+  {
+    "email": "patient11@example.com",
+    "timestamp": "2025-04-15T15:52:28.267Z",
+    "success": false,
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "patient18@example.com",
+    "timestamp": "2025-04-15T15:52:33.808Z",
+    "success": false,
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "patient2@example.com",
+    "timestamp": "2025-04-15T15:52:38.110Z",
+    "success": true,
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed3"
+  },
+  {
+    "email": "nurse12@example.com",
+    "timestamp": "2025-04-15T15:52:44.120Z",
+    "success": true,
+    "role": "nurse",
+    "userId": "67fe3d978201f47b1fca5a70"
+  },
+  {
+    "email": "nurse1@example.com",
+    "timestamp": "2025-04-15T15:52:47.924Z",
+    "success": true,
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec8"
+  },
+  {
+    "email": "nurse@example.com",
+    "timestamp": "2025-04-15T15:52:51.394Z",
+    "success": false,
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "nurse1@example.com",
+    "timestamp": "2025-04-15T15:52:56.056Z",
+    "success": false,
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec8"
+  },
+  {
+    "email": "nurse1@example.com",
+    "timestamp": "2025-04-15T15:52:57.296Z",
+    "success": false,
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec8"
+  },
+  {
+    "email": "nurse1@example.com",
+    "timestamp": "2025-04-15T15:52:58.425Z",
+    "success": false,
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec8"
+  },
+  {
+    "email": "nurse1@example.com",
+    "timestamp": "2025-04-15T15:53:03.925Z",
+    "success": true,
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec8"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T16:16:30.378Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "billingstaff1@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:32:25.255Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billingstaff1@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:32:34.432Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "Nurse7@exampl.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:32:52.885Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "Nurse7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:32:56.689Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "Nurse7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:33:26.112Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "Nurseuser7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:33:37.203Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "nurseuser7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:33:43.279Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T16:34:08.036Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T16:34:29.852Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "nurseuser8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T16:34:48.387Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T16:42:15.746Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T17:08:50.501Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T17:29:12.743Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T17:30:37.759Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:21:57.793Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:22:22.136Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "doctor1@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:35:19.370Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebe"
+  },
+  {
+    "email": "doctor4@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:35:38.346Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec1"
+  },
+  {
+    "email": "doctor4@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:36:11.555Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec1"
+  },
+  {
+    "email": "guardian3@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:41:26.640Z",
+    "role": "guardian",
+    "userId": "67fcc5cee71c49acabd98ede"
+  },
+  {
+    "email": "nurse4@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:42:48.513Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ecb"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:43:45.395Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:43:47.941Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:43:48.955Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:43:49.931Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:43:52.510Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "patient7@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:43:56.055Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed8"
+  },
+  {
+    "email": "researcher1@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:45:39.171Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efa"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:45:57.008Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:45:58.014Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:45:59.719Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:01.010Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:02.545Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:03.423Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:05.324Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:06.103Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:07.813Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:46:09.017Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "researcher2@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:46:13.583Z",
+    "role": "researcher",
+    "userId": "67fcc5cee71c49acabd98efb"
+  },
+  {
+    "email": "medical@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:47:27.704Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:47:43.762Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:47:45.628Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:47:52.157Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:47:57.185Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff8@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:48:36.214Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "MedicalStaff4@example.com",
+    "success": false,
+    "timestamp": "2025-04-15T18:48:40.384Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "medical4@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:48:50.015Z",
+    "role": "staff",
+    "userId": "67fcc5cee71c49acabd98ef3"
+  },
+  {
+    "email": "billing7@example.com",
+    "success": true,
+    "timestamp": "2025-04-15T18:49:02.588Z",
+    "role": "staff",
+    "userId": "67fcc5cee71c49acabd98eec"
+  },
+  {
+    "email": "doctor1@example.com",
+    "success": false,
+    "timestamp": "2025-04-16T05:54:50.485Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebe"
+  },
+  {
+    "email": "doctor4@example.com",
+    "success": false,
+    "timestamp": "2025-04-16T05:54:54.596Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec1"
+  },
+  {
+    "email": "doctor4@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T05:55:00.231Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec1"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:29:30.733Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "nurse4@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:30:42.720Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ecb"
+  },
+  {
+    "email": "nurse2@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:35:05.244Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ec9"
+  },
+  {
+    "email": "medical3@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:36:27.423Z",
+    "role": "staff",
+    "userId": "67fcc5cee71c49acabd98ef2"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:37:10.435Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:38:13.289Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:38:50.368Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:40:49.811Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "billing12@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:41:33.985Z",
+    "role": "staff",
+    "userId": "680031cef025f5f72a96cead"
+  },
+  {
+    "email": "nurse5@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:42:02.888Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ecc"
+  },
+  {
+    "email": "guardian7@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:42:43.017Z",
+    "role": "guardian",
+    "userId": "67fcc5cee71c49acabd98ee2"
+  },
+  {
+    "email": "patient8@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:43:17.924Z",
+    "role": "patient",
+    "userId": "67fcc5cee71c49acabd98ed9"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-16T22:45:31.333Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-20T09:16:31.387Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-04-21T04:18:06.094Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-21T04:18:10.449Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-21T04:30:02.320Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-22T14:00:50.651Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-22T14:05:21.046Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-22T14:06:00.995Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-04-22T14:06:27.067Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "nurse4@example.com",
+    "success": true,
+    "timestamp": "2025-04-22T14:07:52.414Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ecb"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T16:37:46.023Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:00:59.950Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "doctor6@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:05:07.300Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec3"
+  },
+  {
+    "email": "nurse10@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:07:45.108Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ed1"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:11:00.520Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "doctor7@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:12:52.710Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec4"
+  },
+  {
+    "email": "nurse10@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T17:13:55.302Z",
+    "role": "nurse",
+    "userId": "67fcc5cee71c49acabd98ed1"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:16:04.011Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:20:23.804Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "billing13@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:15.955Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing16@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:19.977Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:26.321Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:26.765Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.156Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.295Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.446Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.610Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.743Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:27.905Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:28.060Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:28.220Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:28.392Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:28.528Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:30.200Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:30.627Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:30.780Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:30.932Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:31.079Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:31.216Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:31.343Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billing11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:36.098Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "billingstaff11@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:25:46.086Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:25:59.021Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:29.882Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:30.667Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:30.826Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:30.988Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:31.176Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@exampl.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:31.325Z",
+    "role": null,
+    "userId": null
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:33.260Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:33.980Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:34.288Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:34.677Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:35.209Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:35.498Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:35.853Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:27:36.178Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:27:40.327Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:00.193Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.038Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.189Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.321Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.545Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.692Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.835Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:01.988Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.133Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.299Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.453Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.614Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.765Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:02.923Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.087Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.237Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.380Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.541Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.682Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "doctor2@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:03.859Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ebf"
+  },
+  {
+    "email": "admin@example.com",
+    "success": false,
+    "timestamp": "2025-05-01T18:30:22.752Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:30:26.989Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:37:56.396Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-01T18:42:58.412Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-05T17:42:48.202Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "doctor9@example.com",
+    "success": true,
+    "timestamp": "2025-05-06T09:34:22.015Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec6"
+  },
+  {
+    "email": "doctor9@example.com",
+    "success": true,
+    "timestamp": "2025-05-06T09:35:03.072Z",
+    "role": "doctor",
+    "userId": "67fcc5cee71c49acabd98ec6"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-06T09:36:14.402Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-05-31T17:31:37.704Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  },
+  {
+    "email": "admin@example.com",
+    "success": true,
+    "timestamp": "2025-07-21T18:34:53.905Z",
+    "role": "admin",
+    "userId": "67fcc5cee71c49acabd98ebd"
+  }
+]
