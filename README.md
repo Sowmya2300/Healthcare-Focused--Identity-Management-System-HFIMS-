@@ -43,7 +43,17 @@ HFIMS/
 ---
 
 ## 📸 Screenshots
-(To be added soon)
+
+Here are a few key interfaces from the project:
+
+![Landing Page](assets/Landing-Page.png)
+![Login Page](assets/Login-Page.png)
+![Authorised Dashboard](assets/Authorised-Dashboard.png)
+![Unauthorised error](assets/Unauthorised.png)
+![Create User](assets/Create-User.png)
+![Manager Users](assets/Manager-Users.png)
+![Blockchain ledger](assets/Blockchain-ledger.png)
+![Anomaly detection](assets/Anomaly-detection.png)
 
 ---
 
@@ -78,9 +88,16 @@ Password: Admin@123
 
 ---
 
+## 🚧 Upcoming Improvements
+
+- [ ] Signup & Authentication UI
+- [ ] Role-based Route Guards
+- [ ] UI Polish & Error Boundaries
+
+---
+
 ## 🗺️ Future Enhancements
 
-Signup Page with Email Verification.
 Dockerization for deployment.
 Real blockchain integration (e.g., Hyperledger or Ethereum).
 Role-based route protection with refresh token rotation.
