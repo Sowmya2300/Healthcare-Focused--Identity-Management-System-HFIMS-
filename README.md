@@ -1,7 +1,7 @@
 # 🏥 Healthcare-Focused Identity Management System (HFIMS)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/status-In--Progress-yellow)
 ![Tech](https://img.shields.io/badge/Tech-React%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20Python-blue)
 
 An academic capstone project that reimagines how Identity & Access Management (IAM) can be tailored for healthcare environments. This system offers robust user access controls, secure data handling, anomaly detection via AI, and a simplified blockchain log simulation — all in one platform.
